@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=4500&pause=500&color=63b3ed&width=435&lines=building%2C+things+that+think.;josé+lima." alt="building things that think."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=4500&pause=500&color=63b3ed&width=435&lines=building+things+that+think.;josé+lima." alt="building things that think."/>
 </a>
 
 **.about**
