@@ -12,11 +12,11 @@ Currently, I am building *Sype AI*, an AI-powered academic planning assistant de
 
 def **main(skills):**
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,github,git,supabase,postgres,nodejs,next,react,express,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,github,git,supabase,postgres,nodejs,next,react,express,html,css,figma,c)](https://skillicons.dev)
 
 def **learning(now):**
 
-[![Learning](https://skillicons.dev/icons?i=aws,c)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63b3ed&height=120&section=footer" alt="footer"/>
 
 <!--
