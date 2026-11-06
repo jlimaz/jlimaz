@@ -12,7 +12,7 @@ Currently, I am building *Sype AI*, an AI-powered academic planning assistant de
 
 def **main(skills):**
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,github,git,supabase,postgres,nodejs,next,react,express,html,css,figma,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,github,git,supabase,postgres,nodejs,next,react,express,fastapi,html,css,tailwind,figma,c,bash,linux)](https://skillicons.dev)
 
 def **learning(now):**
 
