@@ -16,7 +16,7 @@ def **main(skills):**
 
 def **learning(now):**
 
-[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,tensorflow,pytorch)](https://skillicons.dev)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63b3ed&height=120&section=footer" alt="footer"/>
 
 <!--
